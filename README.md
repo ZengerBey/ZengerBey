@@ -1,1 +1,1 @@
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?ZengerBey=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=ZengerBey&show_icons=true&theme=gradient) 
