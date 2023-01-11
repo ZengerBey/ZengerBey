@@ -7,7 +7,7 @@
 - Founder of Zenger Media
 - Note : All my projects are confidential and licensed. - Tüm projelerim gizli ve lisanslıdır.
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/803002722416328744?theme=dark&bg=000000)](https://discord.com/users/803002722416328744)
+[![Discord Presence](https://lanyard.cnrad.dev/api/803002722416328744)](https://discord.com/users/803002722416328744)
 
 <img src="https://komarev.com/ghpvc/?username=ZengerBey&label=Numbers%20of%20visitors&color=0b04c7" alt="ZengerBey" />
 
