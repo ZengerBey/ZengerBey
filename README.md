@@ -3,7 +3,7 @@
 
 
 - 👋 Hi, I’m Zenger
-- Software student in Turkey.
+- Software student.
 - Founder of Zenger Media
 - Note : All my projects are confidential and licensed. - Tüm projelerim gizli ve lisanslıdır.
 
