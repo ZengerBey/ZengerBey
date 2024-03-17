@@ -17,7 +17,7 @@
    <a href="https://discord.com/users/803002722416328744" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
     <a href="https://github.com/ZengerBey" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white">
 </a>
-   <a href="https://www.instagram.com/zenger_bey/" target"blank_"><img src="https://img.shields.io/badge/instagram%20-171a21.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+   <a href="https://www.instagram.com/zenger.exe/" target"blank_"><img src="https://img.shields.io/badge/instagram%20-171a21.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://open.spotify.com/user/31tj3weepmnsm64mfeyba2yby4zy?si=7c06b33e7a594809" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 
 <details align="center">
